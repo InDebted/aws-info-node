@@ -579,7 +579,8 @@
         "ap-southeast-1": "athena.ap-southeast-1.amazonaws.com",
         "il-central-1": "athena.il-central-1.amazonaws.com",
         "eu-south-1": "athena.eu-south-1.amazonaws.com",
-        "us-west-2": "athena.us-west-2.amazonaws.com"
+        "us-west-2": "athena.us-west-2.amazonaws.com",
+        "me-central-1": "athena.me-central-1.amazonaws.com"
       }
     },
     "chatbot": {
@@ -682,7 +683,8 @@
         "ap-south-1": "kinesisanalytics.ap-south-1.amazonaws.com",
         "il-central-1": "kinesisanalytics.il-central-1.amazonaws.com",
         "eu-west-2": "kinesisanalytics.eu-west-2.amazonaws.com",
-        "us-gov-west-1": "kinesisanalytics.us-gov-west-1.amazonaws.com"
+        "us-gov-west-1": "kinesisanalytics.us-gov-west-1.amazonaws.com",
+        "me-central-1": "kinesisanalytics.me-central-1.amazonaws.com"
       }
     },
     "polly": {
@@ -737,7 +739,8 @@
         "us-east-2": "redshift-data.us-east-2.amazonaws.com",
         "us-west-1": "redshift-data.us-west-1.amazonaws.com",
         "ap-northeast-1": "redshift-data.ap-northeast-1.amazonaws.com",
-        "us-east-1": "redshift-data.us-east-1.amazonaws.com"
+        "us-east-1": "redshift-data.us-east-1.amazonaws.com",
+        "me-central-1": "redshift-data.me-central-1.amazonaws.com"
       }
     },
     "dataexchange": {
@@ -782,7 +785,8 @@
         "ap-northeast-1": "es.ap-northeast-1.amazonaws.com",
         "ap-northeast-2": "es.ap-northeast-2.amazonaws.com",
         "sa-east-1": "es.sa-east-1.amazonaws.com",
-        "us-gov-east-1": "es.us-gov-east-1.amazonaws.com"
+        "us-gov-east-1": "es.us-gov-east-1.amazonaws.com",
+        "me-central-1": "es.me-central-1.amazonaws.com"
       }
     },
     "firehose": {
@@ -811,7 +815,8 @@
         "ca-central-1": "firehose.ca-central-1.amazonaws.com",
         "cn-north-1": "firehose.cn-north-1.amazonaws.com.cn",
         "eu-south-1": "firehose.eu-south-1.amazonaws.com",
-        "sa-east-1": "firehose.sa-east-1.amazonaws.com"
+        "sa-east-1": "firehose.sa-east-1.amazonaws.com",
+        "me-central-1": "firehose.me-central-1.amazonaws.com"
       }
     },
     "honeycode": {
@@ -846,7 +851,8 @@
         "eu-south-1": "iam.amazonaws.com",
         "eu-west-1": "iam.amazonaws.com",
         "eu-west-3": "iam.amazonaws.com",
-        "us-east-1": "iam.amazonaws.com"
+        "us-east-1": "iam.amazonaws.com",
+        "me-central-1": "iam.amazonaws.com"
       }
     },
     "iot1click-projects": {
@@ -998,7 +1004,8 @@
         "eu-north-1": "dlm.eu-north-1.amazonaws.com",
         "eu-south-1": "dlm.eu-south-1.amazonaws.com",
         "us-gov-east-1": "dlm.us-gov-east-1.amazonaws.com",
-        "us-west-1": "dlm.us-west-1.amazonaws.com"
+        "us-west-1": "dlm.us-west-1.amazonaws.com",
+        "me-central-1": "dlm.me-central-1.amazonaws.com"
       }
     },
     "guardduty": {
@@ -1027,7 +1034,8 @@
         "ap-northeast-2": "guardduty.ap-northeast-2.amazonaws.com",
         "cn-north-1": "guardduty.cn-north-1.amazonaws.com.cn",
         "cn-northwest-1": "guardduty.cn-northwest-1.amazonaws.com.cn",
-        "eu-north-1": "guardduty.eu-north-1.amazonaws.com"
+        "eu-north-1": "guardduty.eu-north-1.amazonaws.com",
+        "me-central-1": "guardduty.me-central-1.amazonaws.com"
       }
     },
     "iotthingsgraph": {
@@ -1065,7 +1073,8 @@
         "us-gov-west-1": "metering.marketplace.us-gov-west-1.amazonaws.com",
         "ap-northeast-3": "metering.marketplace.ap-northeast-3.amazonaws.com",
         "me-south-1": "metering.marketplace.me-south-1.amazonaws.com",
-        "sa-east-1": "metering.marketplace.sa-east-1.amazonaws.com"
+        "sa-east-1": "metering.marketplace.sa-east-1.amazonaws.com",
+        "me-central-1": "metering.marketplace.me-central-1.amazonaws.com"
       }
     },
     "ram": {
@@ -1115,7 +1124,8 @@
         "us-west-2": "sso.us-west-2.amazonaws.com",
         "ap-south-1": "sso.ap-south-1.amazonaws.com",
         "ca-central-1": "sso.ca-central-1.amazonaws.com",
-        "eu-west-2": "sso.eu-west-2.amazonaws.com"
+        "eu-west-2": "sso.eu-west-2.amazonaws.com",
+        "me-central-1": "sso.me-central-1.amazonaws.com"
       }
     },
     "vmwarecloudonaws": {
@@ -1161,7 +1171,8 @@
         "il-central-1": "compute-optimizer.il-central-1.amazonaws.com",
         "eu-west-2": "compute-optimizer.eu-west-2.amazonaws.com",
         "sa-east-1": "compute-optimizer.sa-east-1.amazonaws.com",
-        "us-west-1": "compute-optimizer.us-west-1.amazonaws.com"
+        "us-west-1": "compute-optimizer.us-west-1.amazonaws.com",
+        "me-central-1": "compute-optimizer.me-central-1.amazonaws.com"
       }
     },
     "deepcomposer": {
@@ -1223,7 +1234,8 @@
         "eu-south-1": "mq.eu-south-1.amazonaws.com",
         "eu-west-3": "mq.eu-west-3.amazonaws.com",
         "me-south-1": "mq.me-south-1.amazonaws.com",
-        "sa-east-1": "mq.sa-east-1.amazonaws.com"
+        "sa-east-1": "mq.sa-east-1.amazonaws.com",
+        "me-central-1": "mq.me-central-1.amazonaws.com"
       }
     },
     "resourcegroupstaggingapi": {
@@ -1253,7 +1265,8 @@
         "ap-southeast-2": "tagging.ap-southeast-2.amazonaws.com",
         "cn-north-1": "tagging.cn-north-1.amazonaws.com.cn",
         "cn-northwest-1": "tagging.cn-northwest-1.amazonaws.com.cn",
-        "us-gov-west-1": "tagging.us-gov-west-1.amazonaws.com"
+        "us-gov-west-1": "tagging.us-gov-west-1.amazonaws.com",
+        "me-central-1": "tagging.me-central-1.amazonaws.com"
       }
     },
     "sqs": {
@@ -1283,7 +1296,8 @@
         "il-central-1": "sqs.il-central-1.amazonaws.com",
         "eu-south-1": "sqs.eu-south-1.amazonaws.com",
         "us-gov-west-1": "sqs.us-gov-west-1.amazonaws.com",
-        "us-west-2": "sqs.us-west-2.amazonaws.com"
+        "us-west-2": "sqs.us-west-2.amazonaws.com",
+        "me-central-1": "sqs.me-central-1.amazonaws.com"
       }
     },
     "waf": {
@@ -1310,7 +1324,8 @@
         "us-gov-east-1": "wafv2.us-gov-east-1.amazonaws.com",
         "us-west-2": "wafv2.us-west-2.amazonaws.com",
         "ap-south-1": "wafv2.ap-south-1.amazonaws.com",
-        "eu-south-1": "wafv2.eu-south-1.amazonaws.com"
+        "eu-south-1": "wafv2.eu-south-1.amazonaws.com",
+        "me-central-1": "wafv2.me-central-1.amazonaws.com"
       }
     },
     "apigateway": {
@@ -1340,7 +1355,8 @@
         "ca-central-1": "apigateway.ca-central-1.amazonaws.com",
         "cn-north-1": "apigateway.cn-north-1.amazonaws.com.cn",
         "eu-west-3": "apigateway.eu-west-3.amazonaws.com",
-        "me-south-1": "apigateway.me-south-1.amazonaws.com"
+        "me-south-1": "apigateway.me-south-1.amazonaws.com",
+        "me-central-1": "apigateway.me-central-1.amazonaws.com"
       }
     },
     "appconfig": {
@@ -1370,7 +1386,8 @@
         "cn-northwest-1": "appconfig.cn-northwest-1.amazonaws.com.cn",
         "us-east-2": "appconfig.us-east-2.amazonaws.com",
         "us-gov-east-1": "appconfig.us-gov-east-1.amazonaws.com",
-        "us-gov-west-1": "appconfig.us-gov-west-1.amazonaws.com"
+        "us-gov-west-1": "appconfig.us-gov-west-1.amazonaws.com",
+        "me-central-1": "appconfig.me-central-1.amazonaws.com"
       }
     },
     "budgets": {
@@ -1434,7 +1451,8 @@
         "ap-east-1": "license-manager.ap-east-1.amazonaws.com",
         "ap-south-1": "license-manager.ap-south-1.amazonaws.com",
         "eu-west-3": "license-manager.eu-west-3.amazonaws.com",
-        "us-west-1": "license-manager.us-west-1.amazonaws.com"
+        "us-west-1": "license-manager.us-west-1.amazonaws.com",
+        "me-central-1": "license-manager.me-central-1.amazonaws.com"
       }
     },
     "outposts": {
@@ -1461,7 +1479,8 @@
         "me-south-1": "outposts.me-south-1.amazonaws.com",
         "us-east-1": "outposts.us-east-1.amazonaws.com",
         "ap-southeast-1": "outposts.ap-southeast-1.amazonaws.com",
-        "us-west-2": "outposts.us-west-2.amazonaws.com"
+        "us-west-2": "outposts.us-west-2.amazonaws.com",
+        "me-central-1": "outposts.me-central-1.amazonaws.com"
       }
     },
     "pinpoint-sms-voice": {
@@ -1511,7 +1530,8 @@
         "ap-northeast-3": "states.ap-northeast-3.amazonaws.com",
         "cn-north-1": "states.cn-north-1.amazonaws.com.cn",
         "us-gov-west-1": "states.us-gov-west-1.amazonaws.com",
-        "us-west-1": "states.us-west-1.amazonaws.com"
+        "us-west-1": "states.us-west-1.amazonaws.com",
+        "me-central-1": "states.me-central-1.amazonaws.com"
       }
     },
     "wellarchitectedtool": {
@@ -1544,7 +1564,8 @@
         "eu-central-1": "acm.eu-central-1.amazonaws.com",
         "il-central-1": "acm.il-central-1.amazonaws.com",
         "eu-north-1": "acm.eu-north-1.amazonaws.com",
-        "us-east-2": "acm.us-east-2.amazonaws.com"
+        "us-east-2": "acm.us-east-2.amazonaws.com",
+        "me-central-1": "acm.me-central-1.amazonaws.com"
       }
     },
     "artifact": {
@@ -1576,7 +1597,8 @@
         "ap-south-1": "ds.ap-south-1.amazonaws.com",
         "eu-west-2": "ds.eu-west-2.amazonaws.com",
         "us-east-1": "ds.us-east-1.amazonaws.com",
-        "us-west-1": "ds.us-west-1.amazonaws.com"
+        "us-west-1": "ds.us-west-1.amazonaws.com",
+        "me-central-1": "ds.me-central-1.amazonaws.com"
       }
     },
     "eks": {
@@ -1605,7 +1627,8 @@
         "ap-northeast-1": "eks.ap-northeast-1.amazonaws.com",
         "ap-south-1": "eks.ap-south-1.amazonaws.com",
         "eu-west-3": "eks.eu-west-3.amazonaws.com",
-        "us-east-1": "eks.us-east-1.amazonaws.com"
+        "us-east-1": "eks.us-east-1.amazonaws.com",
+        "me-central-1": "eks.me-central-1.amazonaws.com"
       }
     },
     "glue": {
@@ -1635,7 +1658,8 @@
         "eu-north-1": "glue.eu-north-1.amazonaws.com",
         "eu-south-1": "glue.eu-south-1.amazonaws.com",
         "eu-west-1": "glue.eu-west-1.amazonaws.com",
-        "eu-west-2": "glue.eu-west-2.amazonaws.com"
+        "eu-west-2": "glue.eu-west-2.amazonaws.com",
+        "me-central-1": "glue.me-central-1.amazonaws.com"
       }
     },
     "marketplace-entitlement": {
@@ -1659,7 +1683,8 @@
         "eu-central-1": "medialive.eu-central-1.amazonaws.com",
         "il-central-1": "medialive.il-central-1.amazonaws.com",
         "eu-west-1": "medialive.eu-west-1.amazonaws.com",
-        "eu-west-2": "medialive.eu-west-2.amazonaws.com"
+        "eu-west-2": "medialive.eu-west-2.amazonaws.com",
+        "me-central-1": "medialive.me-central-1.amazonaws.com"
       }
     },
     "networkmanager": {
@@ -1731,7 +1756,8 @@
         "ap-northeast-3": "cloudformation.ap-northeast-3.amazonaws.com",
         "ap-southeast-1": "cloudformation.ap-southeast-1.amazonaws.com",
         "sa-east-1": "cloudformation.sa-east-1.amazonaws.com",
-        "us-west-1": "cloudformation.us-west-1.amazonaws.com"
+        "us-west-1": "cloudformation.us-west-1.amazonaws.com",
+        "me-central-1": "cloudformation.me-central-1.amazonaws.com"
       }
     },
     "cognito-identity": {
@@ -1754,7 +1780,8 @@
         "eu-west-2": "cognito-identity.eu-west-2.amazonaws.com",
         "sa-east-1": "cognito-identity.sa-east-1.amazonaws.com",
         "us-east-2": "cognito-identity.us-east-2.amazonaws.com",
-        "us-west-2": "cognito-identity.us-west-2.amazonaws.com"
+        "us-west-2": "cognito-identity.us-west-2.amazonaws.com",
+        "me-central-1": "cognito-identity.me-central-1.amazonaws.com"
       }
     },
     "datapipeline": {
@@ -1788,7 +1815,8 @@
         "eu-north-1": "fms.eu-north-1.amazonaws.com",
         "eu-west-3": "fms.eu-west-3.amazonaws.com",
         "sa-east-1": "fms.sa-east-1.amazonaws.com",
-        "us-west-2": "fms.us-west-2.amazonaws.com"
+        "us-west-2": "fms.us-west-2.amazonaws.com",
+        "me-central-1": "fms.me-central-1.amazonaws.com"
       }
     },
     "kinesis": {
@@ -1818,7 +1846,8 @@
         "eu-central-1": "kinesis.eu-central-1.amazonaws.com",
         "il-central-1": "kinesis.il-central-1.amazonaws.com",
         "eu-south-1": "kinesis.eu-south-1.amazonaws.com",
-        "us-gov-east-1": "kinesis.us-gov-east-1.amazonaws.com"
+        "us-gov-east-1": "kinesis.us-gov-east-1.amazonaws.com",
+        "me-central-1": "kinesis.me-central-1.amazonaws.com"
       }
     },
     "phd": {
@@ -1878,7 +1907,8 @@
         "il-central-1": "rds.il-central-1.amazonaws.com",
         "eu-north-1": "rds.eu-north-1.amazonaws.com",
         "eu-west-2": "rds.eu-west-2.amazonaws.com",
-        "us-gov-east-1": "rds.us-gov-east-1.amazonaws.com"
+        "us-gov-east-1": "rds.us-gov-east-1.amazonaws.com",
+        "me-central-1": "rds.me-central-1.amazonaws.com"
       }
     },
     "wam": {
@@ -2096,7 +2126,8 @@
         "ap-southeast-2": "directconnect.ap-southeast-2.amazonaws.com",
         "ca-central-1": "directconnect.ca-central-1.amazonaws.com",
         "eu-west-3": "directconnect.eu-west-3.amazonaws.com",
-        "me-south-1": "directconnect.me-south-1.amazonaws.com"
+        "me-south-1": "directconnect.me-south-1.amazonaws.com",
+        "me-central-1": "directconnect.me-central-1.amazonaws.com"
       }
     },
     "importexport": {
@@ -2132,7 +2163,8 @@
         "us-east-1": "iot.us-east-1.amazonaws.com",
         "us-gov-west-1": "iot.us-gov-west-1.amazonaws.com",
         "ap-northeast-2": "iot.ap-northeast-2.amazonaws.com",
-        "us-west-2": "iot.us-west-2.amazonaws.com"
+        "us-west-2": "iot.us-west-2.amazonaws.com",
+        "me-central-1": "iot.me-central-1.amazonaws.com"
       }
     },
     "iotsitewise": {
@@ -2384,7 +2416,8 @@
         "eu-south-1": "backup.eu-south-1.amazonaws.com",
         "sa-east-1": "backup.sa-east-1.amazonaws.com",
         "us-east-1": "backup.us-east-1.amazonaws.com",
-        "us-gov-west-1": "backup.us-gov-west-1.amazonaws.com"
+        "us-gov-west-1": "backup.us-gov-west-1.amazonaws.com",
+        "me-central-1": "backup.me-central-1.amazonaws.com"
       }
     },
     "customer-profiles": {
@@ -2436,7 +2469,8 @@
         "eu-south-1": "events.eu-south-1.amazonaws.com",
         "eu-west-3": "events.eu-west-3.amazonaws.com",
         "us-east-2": "events.us-east-2.amazonaws.com",
-        "us-gov-west-1": "events.us-gov-west-1.amazonaws.com"
+        "us-gov-west-1": "events.us-gov-west-1.amazonaws.com",
+        "me-central-1": "events.me-central-1.amazonaws.com"
       }
     },
     "kendra": {
@@ -2504,7 +2538,8 @@
         "sa-east-1": "route53resolver.sa-east-1.amazonaws.com",
         "us-gov-west-1": "route53resolver.us-gov-west-1.amazonaws.com",
         "ca-central-1": "route53resolver.ca-central-1.amazonaws.com",
-        "us-west-1": "route53resolver.us-west-1.amazonaws.com"
+        "us-west-1": "route53resolver.us-west-1.amazonaws.com",
+        "me-central-1": "route53resolver.me-central-1.amazonaws.com"
       }
     },
     "snowcone": {
@@ -2534,7 +2569,8 @@
         "us-gov-west-1": "acm-pca.us-gov-west-1.amazonaws.com",
         "us-west-2": "acm-pca.us-west-2.amazonaws.com",
         "sa-east-1": "acm-pca.sa-east-1.amazonaws.com",
-        "us-gov-east-1": "acm-pca.us-gov-east-1.amazonaws.com"
+        "us-gov-east-1": "acm-pca.us-gov-east-1.amazonaws.com",
+        "me-central-1": "acm-pca.me-central-1.amazonaws.com"
       }
     },
     "appflow": {
@@ -2581,11 +2617,14 @@
         "us-west-1": "cloudhsmv2.us-west-1.amazonaws.com",
         "us-west-2": "cloudhsmv2.us-west-2.amazonaws.com",
         "ap-northeast-2": "cloudhsmv2.ap-northeast-2.amazonaws.com",
-        "eu-west-1": "cloudhsmv2.eu-west-1.amazonaws.com"
+        "eu-west-1": "cloudhsmv2.eu-west-1.amazonaws.com",
+        "me-central-1": "cloudhsmv2.me-central-1.amazonaws.com"
       }
     },
     "eventbridge": {
-      "endpoints": {}
+      "endpoints": {
+        "me-central-1": "events.me-central-1.amazonaws.com"
+      }
     },
     "fsx": {
       "endpoints": {
@@ -2613,7 +2652,8 @@
         "ap-east-1": "fsx.ap-east-1.amazonaws.com",
         "ca-central-1": "fsx.ca-central-1.amazonaws.com",
         "eu-south-1": "fsx.eu-south-1.amazonaws.com",
-        "eu-west-3": "fsx.eu-west-3.amazonaws.com"
+        "eu-west-3": "fsx.eu-west-3.amazonaws.com",
+        "me-central-1": "fsx.me-central-1.amazonaws.com"
       }
     },
     "health": {
@@ -2661,7 +2701,8 @@
         "sa-east-1": "rds.sa-east-1.amazonaws.com",
         "us-east-2": "rds.us-east-2.amazonaws.com",
         "us-west-2": "rds.us-west-2.amazonaws.com",
-        "us-gov-west-1": "rds.us-gov-west-1.amazonaws.com"
+        "us-gov-west-1": "rds.us-gov-west-1.amazonaws.com",
+        "me-central-1": "rds.me-central-1.amazonaws.com"
       }
     },
     "textract": {
@@ -2711,7 +2752,8 @@
         "eu-north-1": "xray.eu-north-1.amazonaws.com",
         "me-south-1": "xray.me-south-1.amazonaws.com",
         "sa-east-1": "xray.sa-east-1.amazonaws.com",
-        "us-west-2": "xray.us-west-2.amazonaws.com"
+        "us-west-2": "xray.us-west-2.amazonaws.com",
+        "me-central-1": "xray.me-central-1.amazonaws.com"
       }
     },
     "amplify": {
@@ -2781,7 +2823,8 @@
         "us-west-1": "batch.us-west-1.amazonaws.com",
         "ca-central-1": "batch.ca-central-1.amazonaws.com",
         "cn-northwest-1": "batch.cn-northwest-1.amazonaws.com.cn",
-        "us-gov-east-1": "batch.us-gov-east-1.amazonaws.com"
+        "us-gov-east-1": "batch.us-gov-east-1.amazonaws.com",
+        "me-central-1": "batch.me-central-1.amazonaws.com"
       }
     },
     "marketplace": {
@@ -2822,7 +2865,8 @@
         "cn-north-1": "secretsmanager.cn-north-1.amazonaws.com.cn",
         "eu-south-1": "secretsmanager.eu-south-1.amazonaws.com",
         "us-gov-east-1": "secretsmanager.us-gov-east-1.amazonaws.com",
-        "us-west-1": "secretsmanager.us-west-1.amazonaws.com"
+        "us-west-1": "secretsmanager.us-west-1.amazonaws.com",
+        "me-central-1": "secretsmanager.me-central-1.amazonaws.com"
       }
     },
     "swf": {
@@ -2852,7 +2896,8 @@
         "eu-west-3": "swf.eu-west-3.amazonaws.com",
         "us-east-1": "swf.us-east-1.amazonaws.com",
         "us-gov-west-1": "swf.us-gov-west-1.amazonaws.com",
-        "us-west-2": "swf.us-west-2.amazonaws.com"
+        "us-west-2": "swf.us-west-2.amazonaws.com",
+        "me-central-1": "swf.me-central-1.amazonaws.com"
       }
     },
     "workdocs": {
@@ -2908,7 +2953,8 @@
         "sa-east-1": "codepipeline.sa-east-1.amazonaws.com",
         "us-east-2": "codepipeline.us-east-2.amazonaws.com",
         "us-gov-west-1": "codepipeline.us-gov-west-1.amazonaws.com",
-        "us-west-1": "codepipeline.us-west-1.amazonaws.com"
+        "us-west-1": "codepipeline.us-west-1.amazonaws.com",
+        "me-central-1": "codepipeline.me-central-1.amazonaws.com"
       }
     },
     "emr": {
@@ -2938,7 +2984,8 @@
         "us-east-1": "elasticmapreduce.us-east-1.amazonaws.com",
         "us-east-2": "elasticmapreduce.us-east-2.amazonaws.com",
         "us-gov-east-1": "elasticmapreduce.us-gov-east-1.amazonaws.com",
-        "us-west-1": "elasticmapreduce.us-west-1.amazonaws.com"
+        "us-west-1": "elasticmapreduce.us-west-1.amazonaws.com",
+        "me-central-1": "elasticmapreduce.me-central-1.amazonaws.com"
       }
     },
     "imagebuilder": {
@@ -3024,7 +3071,8 @@
         "eu-north-1": "savingsplans.amazonaws.com",
         "eu-west-2": "savingsplans.amazonaws.com",
         "sa-east-1": "savingsplans.amazonaws.com",
-        "us-west-2": "savingsplans.amazonaws.com"
+        "us-west-2": "savingsplans.amazonaws.com",
+        "me-central-1": "savingsplans.amazonaws.com"
       }
     },
     "ses": {
@@ -3073,7 +3121,8 @@
         "us-gov-east-1": "transfer.us-gov-east-1.amazonaws.com",
         "us-gov-west-1": "transfer.us-gov-west-1.amazonaws.com",
         "us-west-2": "transfer.us-west-2.amazonaws.com",
-        "ap-northeast-1": "transfer.ap-northeast-1.amazonaws.com"
+        "ap-northeast-1": "transfer.ap-northeast-1.amazonaws.com",
+        "me-central-1": "transfer.me-central-1.amazonaws.com"
       }
     },
     "application-autoscaling": {
@@ -3102,7 +3151,8 @@
         "il-central-1": "autoscaling-plans.il-central-1.amazonaws.com",
         "sa-east-1": "autoscaling-plans.sa-east-1.amazonaws.com",
         "us-east-1": "autoscaling-plans.us-east-1.amazonaws.com",
-        "us-west-1": "autoscaling-plans.us-west-1.amazonaws.com"
+        "us-west-1": "autoscaling-plans.us-west-1.amazonaws.com",
+        "me-central-1": "application-autoscaling.me-central-1.amazonaws.com"
       }
     },
     "cloudwatch": {
@@ -3132,7 +3182,8 @@
         "ap-southeast-2": "monitoring.ap-southeast-2.amazonaws.com",
         "eu-west-1": "monitoring.eu-west-1.amazonaws.com",
         "eu-west-2": "monitoring.eu-west-2.amazonaws.com",
-        "us-gov-east-1": "monitoring.us-gov-east-1.amazonaws.com"
+        "us-gov-east-1": "monitoring.us-gov-east-1.amazonaws.com",
+        "me-central-1": "monitoring.me-central-1.amazonaws.com"
       }
     },
     "healthlake": {
@@ -3162,7 +3213,8 @@
         "us-east-2": "lakeformation.us-east-2.amazonaws.com",
         "us-gov-west-1": "lakeformation.us-gov-west-1.amazonaws.com",
         "us-west-2": "lakeformation.us-west-2.amazonaws.com",
-        "sa-east-1": "lakeformation.sa-east-1.amazonaws.com"
+        "sa-east-1": "lakeformation.sa-east-1.amazonaws.com",
+        "me-central-1": "lakeformation.me-central-1.amazonaws.com"
       }
     },
     "mgh": {
@@ -3220,7 +3272,8 @@
         "us-east-1": "servicequotas.us-east-1.amazonaws.com",
         "us-west-1": "servicequotas.us-west-1.amazonaws.com",
         "us-west-2": "servicequotas.us-west-2.amazonaws.com",
-        "ap-southeast-1": "servicequotas.ap-southeast-1.amazonaws.com"
+        "ap-southeast-1": "servicequotas.ap-southeast-1.amazonaws.com",
+        "me-central-1": "servicequotas.me-central-1.amazonaws.com"
       }
     },
     "sts": {
@@ -3250,7 +3303,8 @@
         "ap-northeast-2": "sts.ap-northeast-2.amazonaws.com",
         "cn-northwest-1": "sts.cn-northwest-1.amazonaws.com.cn",
         "eu-north-1": "sts.eu-north-1.amazonaws.com",
-        "eu-south-1": "sts.eu-south-1.amazonaws.com"
+        "eu-south-1": "sts.eu-south-1.amazonaws.com",
+        "me-central-1": "sts.me-central-1.amazonaws.com"
       }
     },
     "timestream": {
@@ -3384,7 +3438,8 @@
         "ap-east-1": "organizations.us-east-1.amazonaws.com",
         "eu-west-3": "organizations.us-east-1.amazonaws.com",
         "sa-east-1": "organizations.us-east-1.amazonaws.com",
-        "us-west-2": "organizations.us-east-1.amazonaws.com"
+        "us-west-2": "organizations.us-east-1.amazonaws.com",
+        "me-central-1": "organizations.us-east-1.amazonaws.com"
       }
     },
     "snowball": {
@@ -3490,7 +3545,8 @@
         "af-south-1": "dms.af-south-1.amazonaws.com",
         "ap-south-1": "dms.ap-south-1.amazonaws.com",
         "cn-northwest-1": "dms.cn-northwest-1.amazonaws.com.cn",
-        "us-gov-east-1": "dms.us-gov-east-1.amazonaws.com"
+        "us-gov-east-1": "dms.us-gov-east-1.amazonaws.com",
+        "me-central-1": "dms.me-central-1.amazonaws.com"
       }
     },
     "elasticache": {
@@ -3520,7 +3576,8 @@
         "eu-central-1": "elasticache.eu-central-1.amazonaws.com",
         "il-central-1": "elasticache.il-central-1.amazonaws.com",
         "eu-south-1": "elasticache.eu-south-1.amazonaws.com",
-        "me-south-1": "elasticache.me-south-1.amazonaws.com"
+        "me-south-1": "elasticache.me-south-1.amazonaws.com",
+        "me-central-1": "elasticache.me-central-1.amazonaws.com"
       }
     },
     "elasticbeanstalk": {
@@ -3717,7 +3774,8 @@
         "us-gov-east-1": "iot.us-gov-east-1.amazonaws.com",
         "us-west-2": "iot.us-west-2.amazonaws.com",
         "eu-west-1": "iot.eu-west-1.amazonaws.com",
-        "sa-east-1": "iot.sa-east-1.amazonaws.com"
+        "sa-east-1": "iot.sa-east-1.amazonaws.com",
+        "me-central-1": "iot.me-central-1.amazonaws.com"
       }
     },
     "kms": {
@@ -3747,7 +3805,8 @@
         "eu-south-1": "kms.eu-south-1.amazonaws.com",
         "eu-west-3": "kms.eu-west-3.amazonaws.com",
         "us-west-1": "kms.us-west-1.amazonaws.com",
-        "us-west-2": "kms.us-west-2.amazonaws.com"
+        "us-west-2": "kms.us-west-2.amazonaws.com",
+        "me-central-1": "kms.me-central-1.amazonaws.com"
       }
     },
     "macie": {
@@ -3780,7 +3839,8 @@
         "ap-southeast-2": "network-firewall.ap-southeast-2.amazonaws.com",
         "eu-west-1": "network-firewall.eu-west-1.amazonaws.com",
         "us-east-1": "network-firewall.us-east-1.amazonaws.com",
-        "us-west-2": "network-firewall.us-west-2.amazonaws.com"
+        "us-west-2": "network-firewall.us-west-2.amazonaws.com",
+        "me-central-1": "network-firewall.me-central-1.amazonaws.com"
       }
     },
     "pi": {
@@ -3804,7 +3864,8 @@
         "eu-west-1": "pi.eu-west-1.amazonaws.com",
         "us-east-1": "pi.us-east-1.amazonaws.com",
         "us-east-2": "pi.us-east-2.amazonaws.com",
-        "us-west-2": "pi.us-west-2.amazonaws.com"
+        "us-west-2": "pi.us-west-2.amazonaws.com",
+        "me-central-1": "pi.me-central-1.amazonaws.com"
       }
     },
     "sagemaker-featurestore-runtime": {
@@ -3859,7 +3920,8 @@
         "eu-west-1": "sns.eu-west-1.amazonaws.com",
         "us-east-2": "sns.us-east-2.amazonaws.com",
         "us-gov-west-1": "sns.us-gov-west-1.amazonaws.com",
-        "us-west-2": "sns.us-west-2.amazonaws.com"
+        "us-west-2": "sns.us-west-2.amazonaws.com",
+        "me-central-1": "sns.me-central-1.amazonaws.com"
       }
     },
     "support": {
@@ -3888,7 +3950,8 @@
         "eu-central-1": "support.us-east-1.amazonaws.com",
         "il-central-1": "support.us-east-1.amazonaws.com",
         "eu-north-1": "support.us-east-1.amazonaws.com",
-        "eu-west-3": "support.us-east-1.amazonaws.com"
+        "eu-west-3": "support.us-east-1.amazonaws.com",
+        "me-central-1": "support.us-east-1.amazonaws.com"
       }
     },
     "accessanalyzer": {
@@ -3918,7 +3981,8 @@
         "ap-northeast-3": "access-analyzer.ap-northeast-3.amazonaws.com",
         "cn-northwest-1": "access-analyzer.cn-northwest-1.amazonaws.com.cn",
         "sa-east-1": "access-analyzer.sa-east-1.amazonaws.com",
-        "us-west-1": "access-analyzer.us-west-1.amazonaws.com"
+        "us-west-1": "access-analyzer.us-west-1.amazonaws.com",
+        "me-central-1": "access-analyzer.me-central-1.amazonaws.com"
       }
     },
     "appsync": {
@@ -3944,7 +4008,8 @@
         "eu-west-3": "appsync.eu-west-3.amazonaws.com",
         "us-east-1": "appsync.us-east-1.amazonaws.com",
         "us-west-2": "appsync.us-west-2.amazonaws.com",
-        "eu-south-1": "appsync.eu-south-1.amazonaws.com"
+        "eu-south-1": "appsync.eu-south-1.amazonaws.com",
+        "me-central-1": "appsync.me-central-1.amazonaws.com"
       }
     },
     "autoscaling": {
@@ -3974,7 +4039,8 @@
         "cn-northwest-1": "autoscaling.cn-northwest-1.amazonaws.com.cn",
         "eu-west-1": "autoscaling.eu-west-1.amazonaws.com",
         "us-gov-east-1": "autoscaling.us-gov-east-1.amazonaws.com",
-        "us-west-1": "autoscaling.us-west-1.amazonaws.com"
+        "us-west-1": "autoscaling.us-west-1.amazonaws.com",
+        "me-central-1": "autoscaling.me-central-1.amazonaws.com"
       }
     },
     "forecastquery": {
@@ -4018,7 +4084,8 @@
         "ap-east-1": "fsx.ap-east-1.amazonaws.com",
         "cn-north-1": "fsx.cn-north-1.amazonaws.com.cn",
         "eu-south-1": "fsx.eu-south-1.amazonaws.com",
-        "us-west-2": "fsx.us-west-2.amazonaws.com"
+        "us-west-2": "fsx.us-west-2.amazonaws.com",
+        "me-central-1": "fsx.me-central-1.amazonaws.com"
       }
     },
     "servicecatalog": {
@@ -4045,7 +4112,8 @@
         "me-south-1": "servicecatalog.me-south-1.amazonaws.com",
         "us-gov-east-1": "servicecatalog.us-gov-east-1.amazonaws.com",
         "ap-northeast-1": "servicecatalog.ap-northeast-1.amazonaws.com",
-        "us-west-1": "servicecatalog.us-west-1.amazonaws.com"
+        "us-west-1": "servicecatalog.us-west-1.amazonaws.com",
+        "me-central-1": "servicecatalog.me-central-1.amazonaws.com"
       }
     },
     "snowmobile": {
@@ -4095,7 +4163,8 @@
         "ap-south-1": "storagegateway.ap-south-1.amazonaws.com",
         "eu-south-1": "storagegateway.eu-south-1.amazonaws.com",
         "me-south-1": "storagegateway.me-south-1.amazonaws.com",
-        "sa-east-1": "storagegateway.sa-east-1.amazonaws.com"
+        "sa-east-1": "storagegateway.sa-east-1.amazonaws.com",
+        "me-central-1": "storagegateway.me-central-1.amazonaws.com"
       }
     },
     "vpn": {
@@ -4148,7 +4217,8 @@
         "me-south-1": "applicationinsights.me-south-1.amazonaws.com",
         "sa-east-1": "applicationinsights.sa-east-1.amazonaws.com",
         "us-east-2": "applicationinsights.us-east-2.amazonaws.com",
-        "us-west-1": "applicationinsights.us-west-1.amazonaws.com"
+        "us-west-1": "applicationinsights.us-west-1.amazonaws.com",
+        "me-central-1": "applicationinsights.me-central-1.amazonaws.com"
       }
     },
     "codecommit": {
@@ -4176,7 +4246,8 @@
         "us-west-2": "codecommit.us-west-2.amazonaws.com",
         "ap-northeast-1": "codecommit.ap-northeast-1.amazonaws.com",
         "cn-northwest-1": "codecommit.cn-northwest-1.amazonaws.com.cn",
-        "us-gov-west-1": "codecommit.us-gov-west-1.amazonaws.com"
+        "us-gov-west-1": "codecommit.us-gov-west-1.amazonaws.com",
+        "me-central-1": "codecommit.me-central-1.amazonaws.com"
       }
     },
     "cognito-sync": {
@@ -4250,7 +4321,8 @@
         "ap-southeast-2": "elasticfilesystem.ap-southeast-2.amazonaws.com",
         "eu-north-1": "elasticfilesystem.eu-north-1.amazonaws.com",
         "us-east-1": "elasticfilesystem.us-east-1.amazonaws.com",
-        "us-gov-west-1": "elasticfilesystem.us-gov-west-1.amazonaws.com"
+        "us-gov-west-1": "elasticfilesystem.us-gov-west-1.amazonaws.com",
+        "me-central-1": "elasticfilesystem.me-central-1.amazonaws.com"
       }
     },
     "elb": {
@@ -4280,7 +4352,8 @@
         "ap-southeast-2": "elasticloadbalancing.ap-southeast-2.amazonaws.com",
         "ca-central-1": "elasticloadbalancing.ca-central-1.amazonaws.com",
         "us-gov-east-1": "elasticloadbalancing.us-gov-east-1.amazonaws.com",
-        "us-west-1": "elasticloadbalancing.us-west-1.amazonaws.com"
+        "us-west-1": "elasticloadbalancing.us-west-1.amazonaws.com",
+        "me-central-1": "elasticloadbalancing.me-central-1.amazonaws.com"
       }
     },
     "iot-data": {
@@ -4331,7 +4404,8 @@
         "il-central-1": "api.mediatailor.il-central-1.amazonaws.com",
         "eu-west-1": "api.mediatailor.eu-west-1.amazonaws.com",
         "us-east-1": "api.mediatailor.us-east-1.amazonaws.com",
-        "us-west-2": "api.mediatailor.us-west-2.amazonaws.com"
+        "us-west-2": "api.mediatailor.us-west-2.amazonaws.com",
+        "me-central-1": "api.mediatailor.me-central-1.amazonaws.com"
       }
     },
     "s3": {
@@ -4361,7 +4435,8 @@
         "ca-central-1": "s3.ca-central-1.amazonaws.com",
         "eu-south-1": "s3.eu-south-1.amazonaws.com",
         "eu-west-1": "s3.eu-west-1.amazonaws.com",
-        "us-west-2": "s3.us-west-2.amazonaws.com"
+        "us-west-2": "s3.us-west-2.amazonaws.com",
+        "me-central-1": "s3.me-central-1.amazonaws.com"
       }
     },
     "alexaforbusiness": {
@@ -4511,7 +4586,8 @@
         "us-west-1": "runtime.sagemaker.us-west-1.amazonaws.com",
         "ap-northeast-2": "runtime.sagemaker.ap-northeast-2.amazonaws.com",
         "ap-southeast-2": "runtime.sagemaker.ap-southeast-2.amazonaws.com",
-        "us-west-2": "runtime.sagemaker.us-west-2.amazonaws.com"
+        "us-west-2": "runtime.sagemaker.us-west-2.amazonaws.com",
+        "me-central-1": "runtime.sagemaker.me-central-1.amazonaws.com"
       }
     },
     "sms": {
@@ -4590,7 +4666,8 @@
         "cn-northwest-1": "rds.cn-northwest-1.amazonaws.com.cn",
         "us-east-2": "rds.us-east-2.amazonaws.com",
         "us-gov-west-1": "rds.us-gov-west-1.amazonaws.com",
-        "us-west-2": "rds.us-west-2.amazonaws.com"
+        "us-west-2": "rds.us-west-2.amazonaws.com",
+        "me-central-1": "rds.me-central-1.amazonaws.com"
       }
     },
     "dynamodb": {
@@ -4620,7 +4697,8 @@
         "eu-south-1": "dynamodb.eu-south-1.amazonaws.com",
         "eu-west-3": "dynamodb.eu-west-3.amazonaws.com",
         "us-east-1": "dynamodb.us-east-1.amazonaws.com",
-        "us-gov-west-1": "dynamodb.us-gov-west-1.amazonaws.com"
+        "us-gov-west-1": "dynamodb.us-gov-west-1.amazonaws.com",
+        "me-central-1": "dynamodb.me-central-1.amazonaws.com"
       }
     },
     "mediaconnect": {
@@ -4641,7 +4719,8 @@
         "eu-west-2": "mediaconnect.eu-west-2.amazonaws.com",
         "us-east-1": "mediaconnect.us-east-1.amazonaws.com",
         "us-east-2": "mediaconnect.us-east-2.amazonaws.com",
-        "us-west-1": "mediaconnect.us-west-1.amazonaws.com"
+        "us-west-1": "mediaconnect.us-west-1.amazonaws.com",
+        "me-central-1": "mediaconnect.me-central-1.amazonaws.com"
       }
     },
     "mediaconvert": {
@@ -4664,7 +4743,8 @@
         "eu-west-2": "mediaconvert.eu-west-2.amazonaws.com",
         "sa-east-1": "mediaconvert.sa-east-1.amazonaws.com",
         "us-gov-west-1": "mediaconvert.us-gov-west-1.amazonaws.com",
-        "us-west-1": "mediaconvert.us-west-1.amazonaws.com"
+        "us-west-1": "mediaconvert.us-west-1.amazonaws.com",
+        "me-central-1": "mediaconvert.me-central-1.amazonaws.com"
       }
     },
     "qldb": {
@@ -4767,7 +4847,8 @@
         "me-south-1": "cloudfront.amazonaws.com",
         "ap-northeast-2": "cloudfront.amazonaws.com",
         "ap-southeast-2": "cloudfront.amazonaws.com",
-        "cn-northwest-1": "cloudfront.cn-northwest-1.amazonaws.com.cn"
+        "cn-northwest-1": "cloudfront.cn-northwest-1.amazonaws.com.cn",
+        "me-central-1": "cloudfront.amazonaws.com"
       }
     },
     "config": {
@@ -4797,7 +4878,8 @@
         "eu-west-1": "config.eu-west-1.amazonaws.com",
         "eu-west-3": "config.eu-west-3.amazonaws.com",
         "us-east-2": "config.us-east-2.amazonaws.com",
-        "us-gov-east-1": "config.us-gov-east-1.amazonaws.com"
+        "us-gov-east-1": "config.us-gov-east-1.amazonaws.com",
+        "me-central-1": "config.me-central-1.amazonaws.com"
       }
     },
     "cur": {
@@ -4948,7 +5030,8 @@
         "eu-west-2": "cognito-idp.eu-west-2.amazonaws.com",
         "us-east-1": "cognito-idp.us-east-1.amazonaws.com",
         "us-gov-west-1": "cognito-idp.us-gov-west-1.amazonaws.com",
-        "us-west-2": "cognito-idp.us-west-2.amazonaws.com"
+        "us-west-2": "cognito-idp.us-west-2.amazonaws.com",
+        "me-central-1": "cognito-idp.me-central-1.amazonaws.com"
       }
     },
     "costexplorer": {
@@ -4995,7 +5078,8 @@
         "af-south-1": "fsx.af-south-1.amazonaws.com",
         "ap-northeast-2": "fsx.ap-northeast-2.amazonaws.com",
         "ap-southeast-2": "fsx.ap-southeast-2.amazonaws.com",
-        "me-south-1": "fsx.me-south-1.amazonaws.com"
+        "me-south-1": "fsx.me-south-1.amazonaws.com",
+        "me-central-1": "fsx.me-central-1.amazonaws.com"
       }
     },
     "iotfleethub": {
@@ -5075,7 +5159,8 @@
         "ca-central-1": "codebuild.ca-central-1.amazonaws.com",
         "sa-east-1": "codebuild.sa-east-1.amazonaws.com",
         "us-east-2": "codebuild.us-east-2.amazonaws.com",
-        "us-gov-west-1": "codebuild.us-gov-west-1.amazonaws.com"
+        "us-gov-west-1": "codebuild.us-gov-west-1.amazonaws.com",
+        "me-central-1": "codebuild.me-central-1.amazonaws.com"
       }
     },
     "ecs": {
@@ -5133,7 +5218,8 @@
         "af-south-1": "synthetics.af-south-1.amazonaws.com",
         "ap-northeast-1": "synthetics.ap-northeast-1.amazonaws.com",
         "us-gov-east-1": "synthetics.us-gov-east-1.amazonaws.com",
-        "us-west-2": "synthetics.us-west-2.amazonaws.com"
+        "us-west-2": "synthetics.us-west-2.amazonaws.com",
+        "me-central-1": "synthetics.me-central-1.amazonaws.com"
       }
     }
   },
